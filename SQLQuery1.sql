@@ -1,0 +1,8 @@
+﻿INSERT INTO [dbo].[PRODUCTS] ([PID], [PNAME], [PDESCRIPTION], [PRICE], [CID], [IMAGEPATH]) VALUES (111, 'Dress code 1', 'desscode descrp1', 10000, 11, 'e1.jpg')
+INSERT INTO [dbo].[PRODUCTS] ([PID], [PNAME], [PDESCRIPTION], [PRICE], [CID], [IMAGEPATH]) VALUES (222, 'Dress code 2', 'desscode descrp2', 8000, 11, 'e2.jpg')
+INSERT INTO [dbo].[PRODUCTS] ([PID], [PNAME], [PDESCRIPTION], [PRICE], [CID], [IMAGEPATH]) VALUES (333, 'Dress code 3', 'desscode descrp3', 20000, 11, 'e3.jpg')
+INSERT INTO [dbo].[PRODUCTS] ([PID], [PNAME], [PDESCRIPTION], [PRICE], [CID], [IMAGEPATH]) VALUES (444, 'Dress code 4', 'desscode descrp4', 31000, 11, 'e4.jpeg')
+INSERT INTO [dbo].[PRODUCTS] ([PID], [PNAME], [PDESCRIPTION], [PRICE], [CID], [IMAGEPATH]) VALUES (555, 'Dress code 5', 'desscode descrp5', 14000, 11, 'e5.jpg')
+INSERT INTO [dbo].[PRODUCTS] ([PID], [PNAME], [PDESCRIPTION], [PRICE], [CID], [IMAGEPATH]) VALUES (666, 'Dress code 6', 'desscode descrp6', 8500, 11, 'e6.jpg')
+INSERT INTO [dbo].[PRODUCTS] ([PID], [PNAME], [PDESCRIPTION], [PRICE], [CID], [IMAGEPATH]) VALUES (777, 'Dress code 7', 'desscode descrp7', 14000, 11, 'e7.jpeg')
+INSERT INTO [dbo].[PRODUCTS] ([PID], [PNAME], [PDESCRIPTION], [PRICE], [CID], [IMAGEPATH]) VALUES (888, 'Dress code 8', 'desscode descrp8', 8500, 11, 'e8.jpg')
